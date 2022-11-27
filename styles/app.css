@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primaryText {
+  color: #fbb279;
+  background-image: -webkit-linear-gradient(0deg, #fbb279 0%, #27f2bc 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
