@@ -1,3 +1,13 @@
+# Screenshot
+
+<h1>Mobile</h1>
+<img src='/screenshot/mobileLight.png' alt='mobile Light' />
+<img src='/screenshot/mobileDark.png' alt='mobile Dark' />
+
+<h1>Large Screen</h1>
+<img src='/screenshot/largeLight.png' alt='large Light' />
+<img src='/screenshot/largeDark.png' alt='large Dark' />
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)

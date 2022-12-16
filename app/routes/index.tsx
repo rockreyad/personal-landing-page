@@ -25,7 +25,7 @@ export default function Index() {
             <main className="flex flex-col items-center space-y-2">
               <div className="w-40">
                 <img
-                  src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/314034541_196871549461234_7588499687462868712_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeE6VyYQi5TDnzgAo8gBHEjg3HVQpuQPdc7cdVCm5A91zgqzMb0dmcy2IHCLTh4OccRwMK4Sj5iz4OlM1R7A3XYi&_nc_ohc=FZczyx_l0WoAX_qt__J&_nc_ht=scontent.fdac5-1.fna&oh=00_AfDCJCL8LYVKgJtCKBxbM-itPLWgDk0HzOqzmUU5NJr5eg&oe=6387D00C"
+                  src="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/272613049_136304568851266_1483578921656932634_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHu7Q4BxmeuSbBm55YMkFSCCk2g4V8TCt4KTaDhXxMK3nYocV6MBtoRFHgNdEUsJzFmk6KOcx9Qmdh4qL9ysvpY&_nc_ohc=Mp685ooWNcgAX9JD72G&_nc_ht=scontent.frjh4-1.fna&oh=00_AfB8Ex68vvUtkNM112n5AQTbi_v2ycIalrGN9chmji10tg&oe=63A2CD67"
                   className="rounded-full"
                   alt="rasel"
                 />
